@@ -110,13 +110,13 @@ button{
     background-color: #dfdede48;
     border-radius: 3px;
 }
-.arrows{
+/* .arrows{
    font-size: 178px;
    position: absolute;
    top: 250%;
    right: 18px;
    font-weight: 100px;
-}
+} */
 .img-projects1{
     background-image:linear-gradient(rgba(34, 34, 34, 0.493), rgba(34, 34, 34, 0.452)),url("/images/image37.jpg");
     background-size: cover;
